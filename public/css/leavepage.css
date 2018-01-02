@@ -1,0 +1,42 @@
+body {
+  font-family: '微軟正黑體';
+  background-size: 100%;
+  margin: 0; padding: 0; height: 100%; border:none;
+}
+
+
+.weekn{
+  font-size: 1.5rem;
+  background-color: #eeeeee;
+  
+}
+.cla1{
+  font-size: 1.1rem;
+}
+.cla2{
+  font-size: 0.9rem;
+}
+.name{
+  font-size: 1.3rem;
+}
+.li1{
+  font-size: 0.9rem;
+  background-color: #FFFFFF;
+}
+.li2{
+  font-size: 0.9rem;
+  background-color: #ebebeb;
+}
+input[type=checkbox] {
+  zoom: 1.4;
+}
+.leap{
+  background-color: #ffebaa;
+  font-size: 2rem;
+}
+.d1{
+  font-size: 1.5rem;
+}
+.d2{
+  font-size: 1.2rem;
+}

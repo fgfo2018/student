@@ -1,0 +1,75 @@
+body {
+    font-family: '微軟正黑體';font-size: 1.2rem;
+   
+  }
+
+  .btn-tools:hover,
+  .btn-tools:focus,
+  .btn-tools:active,
+  .btn-tools.active,
+  .open .dropdown-toggle.btn-tools {
+    color: rgb(25, 0, 250);
+    background-color: transparent;
+    border-color: transparent;
+  }
+
+  .login_btn1{
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color:#11571d;
+  }
+  .login_btn2{
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color:#30a734;
+  }
+  .blur img{
+    box-shadow:0 0 30px 5px #C9D6BA;
+    -webkit-transform:scale(.70);
+    transform:scale(.80);
+  }
+  .logo{
+    width:100px ;height:50px;
+  }
+  .fon{
+    font-size: 2.4rem;
+    color: rgb(8, 63, 22);
+  }
+  .stu span{
+    font-size: 1.3rem;
+  }
+  .log span{
+    font-size: 1.7rem;
+  }
+  .he{
+    font-size: 1.5rem;
+  }
+
+  .d4{
+    font-size: 1.1rem;
+    color: rgb(255, 4, 4);
+  }
+  .d3 span{
+    font-size: 1.1rem;
+    color: #AC03BB;
+  }
+.d1 span{
+  font-size: 20px;
+}
+.d2 span{
+  font-size: 15px;
+}
+.eng span{
+  font-size: 20px;
+}
+.down{
+  background-color: #0B571E;
+  color:#FFFFFF;
+  font-size: 0.7rem; 
+}
+
+
